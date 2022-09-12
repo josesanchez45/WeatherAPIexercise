@@ -13,7 +13,8 @@ namespace OpenWeatherMapAPI
         {
             var weatherClient = new HttpClient();
 
-            var weatherApi = "https://api.openweathermap.org/data/2.5/weather?zip=92806&appid=7568ab4e95907fe8fbd43667a960c5fa&units=imperial";
+            var weatherApiKey = new WeatherAPIKey();
+             var weatherApi = weatherApiKey.API();
 
             var weatherResponse = weatherClient.GetStringAsync(weatherApi).Result;
 
