@@ -1,0 +1,17 @@
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\net6.0\OpenWeatherMapAPI.exe
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\net6.0\OpenWeatherMapAPI.deps.json
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\net6.0\OpenWeatherMapAPI.runtimeconfig.json
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\net6.0\OpenWeatherMapAPI.dll
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\net6.0\OpenWeatherMapAPI.pdb
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.csproj.AssemblyReference.cache
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.AssemblyInfoInputs.cache
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.AssemblyInfo.cs
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.csproj.CopyComplete
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.dll
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\refint\OpenWeatherMapAPI.dll
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.pdb
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\OpenWeatherMapAPI.genruntimeconfig.cache
+C:\Users\17144\Desktop\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\net6.0\ref\OpenWeatherMapAPI.dll
